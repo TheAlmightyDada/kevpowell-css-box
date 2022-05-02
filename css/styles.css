@@ -1,0 +1,21 @@
+body {
+    background-color: #a7dbe3;
+    color: white;
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #3747be;
+}
+
+p{
+    color: #2f4c5c;
+}
+
+.box {
+    background: pink;
+    width: 300px;
+
+    margin: 100px;
+}
